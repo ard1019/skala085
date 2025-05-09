@@ -14,7 +14,7 @@
 #         prometheus.io/scrape: 'true'
 #         prometheus.io/port: '8081'
 #         prometheus.io/path: '/actuator/prometheus'
-#         update: 529b24cdaa58b9ddec6c5be0ed9c0aed
+#         update: 0af454217f8bbbe171183e64c690dbb4
 #       labels:
 #         app: sk085-my-app
 #     spec:
@@ -62,7 +62,7 @@ spec:
         prometheus.io/scrape: 'true'
         prometheus.io/port: '8081'
         prometheus.io/path: '/actuator/prometheus'
-        update: 529b24cdaa58b9ddec6c5be0ed9c0aed
+        update: 0af454217f8bbbe171183e64c690dbb4
       labels:
         app: sk085-my-app
     spec:
